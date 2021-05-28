@@ -4,24 +4,120 @@ I have more than 20 years of experience in developing software solutions for dif
 
 ## Tech Skills
 
-1. RPA
-- Uipath
-- Automation Anywhere
-- BluePrism</td>
+<table>
+    <tr>
+        <td>
+            <b>Programing & Scripting</b>
+            <ul>
+                <li>Python</li>
+                <li>Javascript</li>
+                <li>C#.Net</li>
+                <li>VB.Net</li>
+                <li>PHP</li>
+                <li>C/C++</li>
+                <li>ASP.Net</li>
+                <li>T-Sql</li>
+            </ul>
+        </td>  
+        <td></td>  
+        <td>
+            <b>Web Development</b>
+            <ul>
+                <li>HTML</li>
+                <li>Css</li>
+                <li>MarkDown</li>
+                <li>JQuery</li>
+                <li>CodeIgniter</li>
+                <li>Laravel</li>
+                <li>NodeJs</li>
+                <li>ReactJs</li>
+                <li>Webpack</li>
+            </ul>
+        </td>  
+        <td></td>  
+        <td>
+            <b>RPA - Robotis Process Automation</b>
+            <ul>
+            <li>Uipath</li>
+            <li>Automation Anywhere</li>
+            <li>BluePrism</li>
+            </ul>
+        </td>      
+    </tr>
+    <tr>
+        <td>
+            <b>Bussines Inteligence & Data</b>
+            <ul>
+            <li>Power BI</li>
+            <li>Kibana</li>
+            <li>SQL Server</li>
+            <li>SQL Integration Services</li>
+            <li>PostgreSQL</li>
+            <li>MySql / Maria DB</li>
+            <li>Elastic Search</li>
+            <li>Logstash</li>
+            <li>Alteryx</li>
+            <li>Microstrategy</li>
+            <li>ADO.NET</li>
+            </ul>
+        </td>    
+        <td></td>  
+        <td>
+            <b>Other Tools  & Technologies</b>
+            <ul>
+            <li>API Rest & SOAP</li>
+            <li>VSTO</li>
+            <li>VBA</li>
+            <li>GIT</li>
+            <li>Bash</li>
+            <li>CMD</li>
+            <li>Postman</li>
+            </ul>
+        </td>  
+        <td></td>  
+        <td>
+            <b>Project Managment Methodolgies & Tools</b>
+            <ul>
+            <li>Scrum</li>
+            <li>Kanban</li>
+            <li>Jira User / Admin / Architect</li>
+            <li>MS Project</li>
+            <li>Trello</li>
+            </ul>
+        </td>      
+    <tr>
+        <td>
+            <b>Software Design & Documentation</b>
+            <ul>
+                <li>UML</li>
+                <li>BPMn</li>
+                <li>C4</li>
+                <li>MER</li>
+            </ul>
+        </td>    
+        <td></td>  
+        <td>
+            <b>Programming Paradigms & Design Patterns</b>
+            <ul>
+            <li>MVC</li>
+            <li>Reactive Programming</li>
+            <li>Object Oriented Programming</li>
+            <li>Imperative Programming</li>
+            <li>Functional Programming</li>
+            </ul>
+        </td>  
+        <td></td>  
+        <td>
+            <b>Other Methodolgies & Practices </b>
+            <ul>
+            <li>CD & CI</li>
+            <li>TDD & BDD</li>
+            <li>OWASP</li>
+            </ul>
+        </td>              
+    </tr>
+</table>
 
-2. WEB Development
-- Javascript
-- PHP
-- ASP.NET + MVC + ENTITY
-
-3. Desktop Development
-- VB.Net
-- C#.Net
-- C/C++
-- VFP
-
-4. Bussines Inteligence & Database
-5. Otras Herramientas y Tecnologias 
 
 ```Under Construction```
 
