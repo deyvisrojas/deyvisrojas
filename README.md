@@ -18,6 +18,7 @@ I have more than 20 years of experience in developing software solutions for dif
                 <li>ASP.Net</li>
                 <li>T-Sql</li>
             </ul>
+            <br>
         </td>  
         <td>
             <b>Web Development</b>
@@ -40,6 +41,7 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>Automation Anywhere</li>
             <li>BluePrism</li>
             </ul>
+            <br><br><br><br><br><br><br>
         </td>      
     </tr>
     <tr>
@@ -70,6 +72,7 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>CMD</li>
             <li>Postman</li>
             </ul>
+            <br><br><br><br><br>
         </td>  
         <td>
             <b>Project Managment Methodolgies & Tools</b>
@@ -80,6 +83,7 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>MS Project</li>
             <li>Trello</li>
             </ul>
+            <br><br><br><br><br><br><br>
         </td>      
     <tr>
         <td>
@@ -90,6 +94,7 @@ I have more than 20 years of experience in developing software solutions for dif
                 <li>C4</li>
                 <li>MER</li>
             </ul>
+            <br>
         </td>    
         <td>
             <b>Programming Paradigms & Design Patterns</b>
@@ -108,6 +113,7 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>TDD & BDD</li>
             <li>OWASP</li>
             </ul>
+            <br><br>
         </td>              
     </tr>
 </table>
