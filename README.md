@@ -19,7 +19,6 @@ I have more than 20 years of experience in developing software solutions for dif
                 <li>T-Sql</li>
             </ul>
         </td>  
-        <td></td>  
         <td>
             <b>Web Development</b>
             <ul>
@@ -34,7 +33,6 @@ I have more than 20 years of experience in developing software solutions for dif
                 <li>Webpack</li>
             </ul>
         </td>  
-        <td></td>  
         <td>
             <b>RPA - Robotis Process Automation</b>
             <ul>
@@ -61,7 +59,6 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>ADO.NET</li>
             </ul>
         </td>    
-        <td></td>  
         <td>
             <b>Other Tools  & Technologies</b>
             <ul>
@@ -74,7 +71,6 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>Postman</li>
             </ul>
         </td>  
-        <td></td>  
         <td>
             <b>Project Managment Methodolgies & Tools</b>
             <ul>
@@ -95,7 +91,6 @@ I have more than 20 years of experience in developing software solutions for dif
                 <li>MER</li>
             </ul>
         </td>    
-        <td></td>  
         <td>
             <b>Programming Paradigms & Design Patterns</b>
             <ul>
@@ -106,7 +101,6 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>Functional Programming</li>
             </ul>
         </td>  
-        <td></td>  
         <td>
             <b>Other Methodolgies & Practices </b>
             <ul>
