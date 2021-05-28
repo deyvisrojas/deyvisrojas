@@ -36,13 +36,13 @@ I have more than 20 years of experience in developing software solutions for dif
 
 ## Experience
 
-- KPMG  / Solution Architech ```Actual```
+- KPMG  / Solution Architect ```Actual```
 
 - PRACTIA   / RPA Developer ````JUL-2018 / MAY-2019````
 
 - FREELANCER  / FullStack Developer ```MAY-2016 / ABR-2018```
 
-- ERA CONSULTORES / Solution Architech ```OCT-2009 / ABR-2016```	
+- ERA CONSULTORES / Solution Architect ```OCT-2009 / ABR-2016```	
 
 - REINGSYS / FullStack Developer ```JUL-2006 / SEP-2009```	
 
