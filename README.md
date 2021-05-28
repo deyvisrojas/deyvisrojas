@@ -36,19 +36,19 @@ I have more than 20 years of experience in developing software solutions for dif
 
 ## Experience
 
-- KPMG  / Solution Architect ```Actual```
+- KPMG ![Ar](https://github.com/deyvisrojas/deyvisrojas/blob/main/argentina.png) / Solution Architect ```Actual```
 
-- PRACTIA   / RPA Developer ````JUL-2018 / MAY-2019````
+- PRACTIA ![Ar](https://github.com/deyvisrojas/deyvisrojas/blob/main/argentina.png)  / RPA Developer ````JUL-2018 / MAY-2019````
 
-- FREELANCER  / FullStack Developer ```MAY-2016 / ABR-2018```
+- FREELANCER ![Ve](https://github.com/deyvisrojas/deyvisrojas/blob/main/venezuela.png) / FullStack Developer ```MAY-2016 / ABR-2018```
 
-- ERA CONSULTORES / Solution Architect ```OCT-2009 / ABR-2016```	
+- ERA CONSULTORES ![Ve](https://github.com/deyvisrojas/deyvisrojas/blob/main/venezuela.png) / Solution Architect ```OCT-2009 / ABR-2016```	
 
-- REINGSYS / FullStack Developer ```JUL-2006 / SEP-2009```	
+- REINGSYS ![Ve](https://github.com/deyvisrojas/deyvisrojas/blob/main/venezuela.png) / FullStack Developer ```JUL-2006 / SEP-2009```	
 
-- HOSPIHEALTH / FullStack Developer ```NOV-2002 / JUN-2006```
+- HOSPIHEALTH ![Ve](https://github.com/deyvisrojas/deyvisrojas/blob/main/venezuela.png) / FullStack Developer ```NOV-2002 / JUN-2006```
 
-- REINGSYS  / Bussines Analyst & Software developer ```NOV-2000 / OCT-2002```
+- REINGSYS ![Ve](https://github.com/deyvisrojas/deyvisrojas/blob/main/venezuela.png)  / Bussines Analyst & Software developer ```NOV-2000 / OCT-2002```
 
 ```Under Construction```
 
