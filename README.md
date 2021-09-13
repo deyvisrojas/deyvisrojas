@@ -62,6 +62,7 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>Microstrategy</li>
             <li>ADO.NET</li>
             </ul>
+            <br>
         </td>    
         <td>
             <b>Other Tools  & Technologies</b>
@@ -74,7 +75,7 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>CMD</li>
             <li>Postman</li>
             </ul>
-            <br><br><br><br><br>
+            <br><br><br><br><br><br>
         </td>  
         <td>
             <b>Project Managment Methodolgies & Tools</b>
