@@ -32,6 +32,8 @@ I have more than 20 years of experience in developing software solutions for dif
                 <li>NodeJs</li>
                 <li>ReactJs</li>
                 <li>Webpack</li>
+                <li>MERN Stack</li>
+                <li>LAMP Stack</li>
             </ul>
         </td>  
         <td>
@@ -79,6 +81,8 @@ I have more than 20 years of experience in developing software solutions for dif
             <ul>
             <li>Scrum</li>
             <li>Kanban</li>
+            <li>Scrumban</li>
+            <li>Waterfall</li>
             <li>Jira User / Admin / Architect</li>
             <li>MS Project</li>
             <li>Trello</li>
@@ -109,8 +113,8 @@ I have more than 20 years of experience in developing software solutions for dif
         <td>
             <b>Other Methodolgies & Practices </b>
             <ul>
-            <li>CD & CI</li>
-            <li>TDD & BDD</li>
+            <li>CI/CD</li>
+            <li>TDD/BDD</li>
             <li>OWASP</li>
             </ul>
             <br><br>
