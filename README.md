@@ -18,7 +18,7 @@ I have more than 20 years of experience in developing software solutions for dif
                 <li>ASP.Net</li>
                 <li>T-Sql</li>
             </ul>
-            <br>
+            <br><br><br>
         </td>  
         <td>
             <b>Web Development</b>
@@ -43,7 +43,7 @@ I have more than 20 years of experience in developing software solutions for dif
             <li>Automation Anywhere</li>
             <li>BluePrism</li>
             </ul>
-            <br><br><br><br><br><br><br>
+            <br><br><br><br><br><br><br><br><br>
         </td>      
     </tr>
     <tr>
