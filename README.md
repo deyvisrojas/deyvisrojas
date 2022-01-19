@@ -37,7 +37,7 @@ I have more than 20 years of experience in developing software solutions for dif
             </ul>
         </td>  
         <td>
-            <b>RPA - Robotis Process Automation</b>
+            <b>RPA - Robotics Process Automation</b>
             <ul>
             <li>Uipath</li>
             <li>Automation Anywhere</li>
